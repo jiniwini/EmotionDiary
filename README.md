@@ -14,7 +14,7 @@
 2) 분석된 감정에 대한 시각화 정보와 추천 서비스 제공
 3) 분석 및 추천 서비스를 부모에게도 제공함으로써 심리 소통 개선 기대
 
-------------
+
 
 ## 기술 스택
 * Languages : Python
@@ -22,12 +22,11 @@
 * Library : Pandas, Numpy, Matplotlib, Seaborn, Sklearn, KoNLPy
 * DB : SQLlite 
 
-----
 
 ## 구현 기능
 회원가입 및 로그인/로그아웃, 일기 감정 분석(감정분석, 빈출단어, 감정변화), 분석된 감정 시각화 서비스, 일기 작성 웹 서비스(일기 작성, 작성 일기 저장 및 수정), 컨텐츠 추천 서비스
 
-------
+
 
 ## Reference
 
@@ -36,7 +35,7 @@ _사용 데이터셋 출처 및 설명_
 <img width="470" alt="image" src="https://github.com/jiniwini/-Emotional-diary/assets/124109398/eb87555d-2882-45e5-b570-34dedf12b437">
 
 
--------
+
 
 ## Process
 
@@ -45,7 +44,7 @@ _분석 프로세스에 대한 소개_
 <img width="545" alt="image" src="https://github.com/jiniwini/-Emotional-diary/assets/124109398/ad2560d2-f4ac-432c-b357-e9b476658f51">
 
 
--------
+
 
 ## 모델
 
